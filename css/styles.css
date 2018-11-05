@@ -83,7 +83,7 @@ header{
 .top-img{
   width: 100%;
   height: 100vh;
-  background-image: url(https://github.com/shintaromatsudo/shintaromatsudo.github.io/blob/master/img/DSC041582.jpg);
+  background-image: url(../img/DSC041582.jpg);
   background-repeat: no-repeat;  
   background-attachment: fixed;
   background-size: cover;
