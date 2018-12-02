@@ -152,8 +152,8 @@ main{
 
 .about{
   height: 100vh;
-  margin: 50px;
-  padding: 50px;
+  margin: 40px;
+  padding: 40px;
   color: black;
 }
 
@@ -170,7 +170,7 @@ main{
 }
 
 .about p{
-  font-size: 2.9vmin;
+  font-size: 2.8vmin;
   text-align: left;
   margin: 20px;
   padding: 25px;
@@ -343,7 +343,7 @@ span.is-show{
   display: white;
   position: relative;
   padding: 5px;
-  margin: 0 5px;
+  margin: 0 8px;
   color: black;
 }
 .back-to-top a:before, .back-to-top a:after, .back-to-top span:before, .back-to-top span:after, .back-to-top section:before, .back-to-top section:after {
