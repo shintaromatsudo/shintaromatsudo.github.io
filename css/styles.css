@@ -85,7 +85,7 @@ header{
   height: 100vh;
   background-image: url('../img/TheWave.jpg');
   background-attachment: fixed;
-  background-size: 100% auto;
+  background-size: auto 100%;
   background-position: center;
   margin: 0;
   padding: 0;
